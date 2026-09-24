@@ -25,6 +25,10 @@
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/32e4fec8-c64f-41b9-bd89-035000bba5d6" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/94b34002-baab-478f-a169-00347a78e79c" />
 
+8. Loops - For
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/576437ab-6a06-4bdd-92f3-e27011841659" />
+
+
 
 
 
