@@ -51,6 +51,10 @@
 15. Create Instance
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/24a0645b-1937-404b-adaa-2c141d351233" />
 
+16. Access Properties
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/62f0b85d-dae7-48eb-bd19-ed238242df4b" />
+
+
 
 
 
