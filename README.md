@@ -40,6 +40,14 @@
 12. Functions Without Return
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bcce05a5-a446-425b-a44a-bce5ed81c63c" />
 
+13. Lambda Expressions (fungsi biasa), (ditulis sebagai lambda),
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c0b48fd-fd4d-4cbf-8916-eeaa6501d538" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/332b62f0-6461-43a9-bae4-64554fd21827" />
+
+14. 
+
+
+
 
 
 
