@@ -78,6 +78,10 @@
 24. Use Safe Calls
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e54e4bf-8864-453b-baa0-d34714aab367" />
 
+25. Use Elvis Operator
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/12de4aba-796e-4ab7-9c1d-64748ae94f3f" />
+
+
 
 
 
