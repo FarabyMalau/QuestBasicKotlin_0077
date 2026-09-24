@@ -63,6 +63,10 @@
 19. Print as String
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ff232156-2c15-471d-8186-1ff7bcbf48e6" />
 
+20. Compare Instances
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/08a463c9-d884-45c8-83fd-6a2517be46a0" />
+
+
 
 
 
