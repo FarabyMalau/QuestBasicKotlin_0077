@@ -37,6 +37,11 @@
 11. Default Parameter Values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/229c02b5-6ef8-4730-90d9-906f8e25c766" />
 
+12. Functions Without Return
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/bcce05a5-a446-425b-a44a-bce5ed81c63c" />
+
+
+
 
 
 
