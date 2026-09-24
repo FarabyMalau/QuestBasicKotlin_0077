@@ -11,4 +11,8 @@
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f6d4bdcf-584b-47b3-909c-56df4bb50711" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6ac73c58-850a-45ef-9b92-459a998a3cce" />
 
+5. Collection - Set dan Locked View
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/46e80da7-3642-42e6-be82-e1220deb772c" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e346e955-25f6-43c6-af9a-193b0ffb5b4e" />
+
 
