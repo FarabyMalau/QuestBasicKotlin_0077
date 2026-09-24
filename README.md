@@ -54,6 +54,12 @@
 16. Access Properties
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/62f0b85d-dae7-48eb-bd19-ed238242df4b" />
 
+17. Member Functions
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/52660fc2-197e-442f-b891-2dc5f397f8a3" />
+
+
+
+
 
 
 
