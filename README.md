@@ -66,6 +66,12 @@
 20. Compare Instances
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/08a463c9-d884-45c8-83fd-6a2517be46a0" />
 
+21. Copy Instance
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7915b23d-3987-44db-8fa1-af01846444bf" />
+
+22. 
+
+
 
 
 
