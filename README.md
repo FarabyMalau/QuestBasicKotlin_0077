@@ -60,6 +60,10 @@
 18. Data Classes (deklarasi)
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e3b07366-37e1-4845-b63f-c7a0a438ad35" />
 
+19. Print as String
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ff232156-2c15-471d-8186-1ff7bcbf48e6" />
+
+
 
 
 
