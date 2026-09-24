@@ -20,5 +20,14 @@
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/40a344a3-7c4e-48dd-9b41-ef1b31793503" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/faef914e-236f-46cf-9620-648609eac598" />
 
+7. Conditional Expressions - If, When (Statement), dan When (Expression)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7469b045-a1ac-42f1-80f6-e98bb9c9585b" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/32e4fec8-c64f-41b9-bd89-035000bba5d6" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/94b34002-baab-478f-a169-00347a78e79c" />
+
+
+
+
+
 
 
