@@ -57,6 +57,9 @@
 17. Member Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/52660fc2-197e-442f-b891-2dc5f397f8a3" />
 
+18. Data Classes (deklarasi)
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e3b07366-37e1-4845-b63f-c7a0a438ad35" />
+
 
 
 
