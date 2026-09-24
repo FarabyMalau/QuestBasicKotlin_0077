@@ -44,7 +44,14 @@
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c0b48fd-fd4d-4cbf-8916-eeaa6501d538" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/332b62f0-6461-43a9-bae4-64554fd21827" />
 
-14. 
+14. Class (deklarasi kelas) dan Class dengan properti di constructor
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/dc778aee-0dc9-410d-828d-cf54d4b91e45" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fd7904e0-b9d2-4e6f-bd24-3c9a08051d71" />
+
+15. 
+
+
+
 
 
 
