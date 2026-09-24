@@ -15,4 +15,10 @@
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/46e80da7-3642-42e6-be82-e1220deb772c" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/e346e955-25f6-43c6-af9a-193b0ffb5b4e" />
 
+6. Collection - Map, Locked View, dan Akses Value
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/78e65adc-e078-491e-b15b-cb50f2e06795" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/40a344a3-7c4e-48dd-9b41-ef1b31793503" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/faef914e-236f-46cf-9620-648609eac598" />
+
+
 
