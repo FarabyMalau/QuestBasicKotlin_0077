@@ -75,6 +75,10 @@
 23. Check for Null Values
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/d0e17254-5b65-4e9f-9394-e0e3639b239b" />
 
+24. Use Safe Calls
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e54e4bf-8864-453b-baa0-d34714aab367" />
+
+
 
 
 
