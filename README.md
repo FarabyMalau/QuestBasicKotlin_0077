@@ -34,6 +34,10 @@
 10. Named Arguments
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f4223591-e563-46bf-b5d0-c94bcb524285" />
 
+11. Default Parameter Values
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/229c02b5-6ef8-4730-90d9-906f8e25c766" />
+
+
 
 
 
