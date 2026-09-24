@@ -31,6 +31,10 @@
 9. Functions
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/23aaa3c7-388b-42f1-a2a5-8c4684103210" />
 
+10. Named Arguments
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f4223591-e563-46bf-b5d0-c94bcb524285" />
+
+
 
 
 
