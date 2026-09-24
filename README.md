@@ -69,7 +69,9 @@
 21. Copy Instance
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7915b23d-3987-44db-8fa1-af01846444bf" />
 
-22. 
+22. Nullable Types
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1a5cd4cc-19dd-4497-88ac-3a9afe3eafbb" />
+
 
 
 
